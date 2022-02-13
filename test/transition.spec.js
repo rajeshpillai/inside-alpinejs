@@ -1,4 +1,4 @@
-import Alpine from 'alpinejs'
+import Alpine from '../dist/alpine';
 import { wait } from '@testing-library/dom'
 
 global.MutationObserver = class {

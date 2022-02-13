@@ -1,4 +1,4 @@
-import Alpine from 'alpinejs'
+import Alpine from '../dist/alpine';
 import { fireEvent, wait } from '@testing-library/dom'
 
 test('auto-detect new components and dont lose state of existing ones', async () => {
