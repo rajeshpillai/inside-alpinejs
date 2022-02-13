@@ -1,5 +1,7 @@
 # Dissecting Alpine.js
 
+Extracted from:
+  - https://github.com/alpinejs/alpine/tree/v
 
 # Alpine.js
 
